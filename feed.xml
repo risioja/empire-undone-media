@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>Empire Undone uploads</title>
+  <link>https://github.com/risioja/empire-undone-media</link>
+  <description>Upload queue for the Empire Undone YouTube channel</description>
+<!--ITEMS-->
+  <item>
+   <title>How America&#x27;s Most Hated Airline Died | The Spirit Airlines Collapse</title>
+   <link>https://raw.githubusercontent.com/risioja/empire-undone-media/main/media/ep01.mp4</link>
+   <guid isPermaLink="false">empire-undone-ep01</guid>
+   <pubDate>Mon, 16 Nov 2026 19:18:38 GMT</pubDate>
+   <description><![CDATA[At 3 a.m. on May 2, 2026, Spirit Airlines stopped flying for good. For most of its life the bright yellow budget airline was the most complained-about carrier in America, and also one of the most profitable. So how did it end in liquidation after 34 years?
+
+It didn't die from one mistake. It took five blows: the big airlines copied its best idea, regulators blocked its rescue, an engine flaw grounded its planes, debt piled up, and a fuel shock finished it off.
+
+Chapters:
+0:00 The night Spirit disappeared
+0:51 From trucks to the "Bare Fare"
+2:39 Blow 1: The copycats
+3:51 Blow 2: The rescue is blocked
+4:24 Blow 3: The engines
+5:09 Blow 4: The debt
+5:58 Blow 5: The fuel
+6:37 The final night
+7:14 Who killed Spirit Airlines?
+
+Sources:
+- Spirit Airlines, Form 10-K FY2023 (SEC): https://www.sec.gov/Archives/edgar/data/1498710/000149871024000117/save-20231231.htm
+- Spirit Airlines (overview, timeline, financials): https://en.wikipedia.org/wiki/Spirit_Airlines
+- AP via Insurance Journal, "Spirit Airlines Shuts Down After 34 Years" (May 6, 2026): https://www.insurancejournal.com/news/southeast/2026/05/06/868758.htm
+- AP via BNN Bloomberg, "Spirit Airlines has stopped flying. Here's what happens next" (May 5, 2026): https://www.bnnbloomberg.ca/business/2026/05/05/spirit-airlines-has-stopped-flying-heres-what-happens-next/
+- AirlineGeeks, "Spirit Cancels All Flights, Begins Shutdown" (May 2, 2026): https://airlinegeeks.com/2026/05/02/spirit-cancels-all-flights-begins-shutdown/
+- One Mile at a Time, "Spirit Airlines Ceases Operations": https://onemileatatime.com/news/spirit-airlines-ceases-operations-stops-flying-liquidates-government-bailout-fails/
+- Flying Magazine, "Spirit Expects to Ground Nearly 20 Percent of Its Fleet": https://www.flyingmag.com/spirit-expects-to-ground-nearly-20-percent-of-its-fleet/
+- Consumerist, "Spirit Airlines: The Most Complained-About Carrier in the U.S." (2014): https://consumerist.com/2014/04/10/spirit-airlines-the-most-complained-about-carrier-in-the-u-s/
+- DOT 2015 complaint figures, via The Real Deal: https://therealdeal.boardingarea.com/spirit-was-most-complained-about-airline-in-2015
+
+#SpiritAirlines #BusinessDocumentary #EmpireUndone]]></description>
+  </item>
+ </channel>
+</rss>
