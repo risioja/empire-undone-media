@@ -3,13 +3,12 @@
  <channel>
   <title>Empire Undone uploads</title>
   <link>https://github.com/risioja/empire-undone-media</link>
-  <description>Upload queue for the Empire Undone YouTube channel</description>
-<!--ITEMS-->
+  <description>Upload queue for the Empire Undone YouTube channel. pubDate = scheduled YouTube publish time.</description>
   <item>
-   <title>How America&#x27;s Most Hated Airline Died | The Spirit Airlines Collapse</title>
-   <link>https://raw.githubusercontent.com/risioja/empire-undone-media/main/media/ep01.mp4</link>
-   <guid isPermaLink="false">empire-undone-ep01</guid>
-   <pubDate>Mon, 16 Nov 2026 19:18:38 GMT</pubDate>
+   <title>How America's Most Hated Airline Died | The Spirit Airlines Collapse</title>
+   <link>https://raw.githubusercontent.com/risioja/empire-undone-media/main/media/ep01-main.mp4</link>
+   <guid isPermaLink="false">ep01-main</guid>
+   <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
    <description><![CDATA[At 3 a.m. on May 2, 2026, Spirit Airlines stopped flying for good. For most of its life the bright yellow budget airline was the most complained-about carrier in America, and also one of the most profitable. So how did it end in liquidation after 34 years?
 
 It didn't die from one mistake. It took five blows: the big airlines copied its best idea, regulators blocked its rescue, an engine flaw grounded its planes, debt piled up, and a fuel shock finished it off.
@@ -37,6 +36,33 @@ Sources:
 - DOT 2015 complaint figures, via The Real Deal: https://therealdeal.boardingarea.com/spirit-was-most-complained-about-airline-in-2015
 
 #SpiritAirlines #BusinessDocumentary #EmpireUndone]]></description>
+  </item>
+  <item>
+   <title>Spirit Airlines Vanished Overnight #shorts</title>
+   <link>https://raw.githubusercontent.com/risioja/empire-undone-media/main/media/ep01-short1.mp4</link>
+   <guid isPermaLink="false">ep01-short1</guid>
+   <pubDate>Tue, 17 Nov 2026 19:00:00 GMT</pubDate>
+   <description><![CDATA[At 3 a.m. on May 2, 2026, Spirit Airlines stopped flying for good. It took five blows to kill America's most hated airline. Full story on Empire Undone.
+
+#shorts #SpiritAirlines #BusinessDocumentary]]></description>
+  </item>
+  <item>
+   <title>How the Most Hated Airline Made Millions #shorts</title>
+   <link>https://raw.githubusercontent.com/risioja/empire-undone-media/main/media/ep01-short2.mp4</link>
+   <guid isPermaLink="false">ep01-short2</guid>
+   <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+   <description><![CDATA[The cheapest ticket, then a fee for everything else. Spirit's Bare Fare made it the most complained-about airline in America and one of the most profitable. Full story on Empire Undone.
+
+#shorts #SpiritAirlines #BusinessDocumentary]]></description>
+  </item>
+  <item>
+   <title>Who Killed Spirit Airlines? #shorts</title>
+   <link>https://raw.githubusercontent.com/risioja/empire-undone-media/main/media/ep01-short3.mp4</link>
+   <guid isPermaLink="false">ep01-short3</guid>
+   <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
+   <description><![CDATA[Copycats, a blocked rescue, broken engines, debt and a fuel shock. Five blows took down Spirit Airlines. Full story on Empire Undone.
+
+#shorts #SpiritAirlines #BusinessDocumentary]]></description>
   </item>
  </channel>
 </rss>
